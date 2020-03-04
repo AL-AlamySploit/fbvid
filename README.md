@@ -6,8 +6,7 @@ How To Use :
 
 <pre><span class="pl-c"></span> #command </span>
 
-$ git clone https://github.com/AL-AlamySploit/Facebook-Video-Downloader
-
+$ git clone https://github.com/AL-AlamySploit/fbvid
 $ cd Facebook-Video-Downloader
 
 $ php fb.php </span></pre>
