@@ -19,7 +19,8 @@ echo "
                                                                                                              
 ";
 echo "\n\n";
-echo "[#] Enter Video URL (https://www.facebook.com/user/video/id) : ";
+echo "               [https://www.facebook.com/user/video/id]            "
+echo "[+] Enter Video URL : ";
 $v = trim(fgets(STDIN, 1024));
 echo "\n\n[#] Enter Video Name To Save As : ";
 $name = trim(fgets(STDIN, 1024));
